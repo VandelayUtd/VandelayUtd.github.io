@@ -1,11 +1,11 @@
 # Site settings
 author: Drew Hadley
-title: 
+title: Even Androids Can Cry!
 header-img: img/home-bg.png
 email: drewhadley.guitar@gmail.com
 copyright_name: Drew Hadley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Adventures and misadventures in the world of software engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  VandelayUtd
